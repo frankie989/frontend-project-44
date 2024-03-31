@@ -44,20 +44,20 @@
 &emsp; **make brain-prime**
 
 ### Запуск игры Brain-even
-&emsp; **Welcome to the Brain Games!**
-&emsp; **May I have your name? Sam**
-&emsp; **Hello, Sam!**
-&emsp; **Answer "yes" if the number is even, otherwise answer "no".**
-&emsp; **Question: 15**
-&emsp; **Your answer: no**
-&emsp; **Correct!**
-&emsp; **Question: 6**
-&emsp; **Your answer: yes**
-&emsp; **Correct!**
-&emsp; **Question: 7**
-&emsp; **Your answer: no**
-&emsp; **Correct!**
-&emsp; **Congratulations, Sam!**
+Welcome to the Brain Games!
+May I have your name? Sam
+Hello, Sam!
+Answer "yes" if the number is even, otherwise answer "no".
+Question: 15
+Your answer: no
+Correct!
+Question: 6
+Your answer: yes
+Correct!
+Question: 7
+Your answer: no
+Correct!
+Congratulations, Sam!
 
 
 ### Запуск игры Brain-calc
