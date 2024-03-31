@@ -74,63 +74,115 @@ Correct!
 
 Congratulations, Sam!
 
-
+&emsp;
 ### Запуск игры Brain-calc
-&emsp; **Welcome to the Brain Games!**
-&emsp; **May I have your name? Sam**
-&emsp; **Hello, Sam!**
-&emsp; **What is the result of the expression?**
-&emsp; **Question: 4 + 10**
-&emsp; **Your answer: 14**
-&emsp; **Correct!**
-&emsp; **Question: 25 - 11**
-&emsp; **Your answer: 14**
-&emsp; **Correct!**
-&emsp; **Question: 25 * 7**
-&emsp; **Your answer: 175**
-&emsp; **Correct!**
-&emsp; **Congratulations, Sam!**
 
+Welcome to the Brain Games!
+
+May I have your name? Sam
+
+Hello, Sam!
+
+What is the result of the expression?
+
+Question: 4 + 10
+
+Your answer: 14
+
+Correct!
+
+Question: 25 - 11
+
+Your answer: 14
+
+Correct!
+
+Question: 25 * 7
+
+Your answer: 175
+
+Correct!
+
+Congratulations, Sam!
+
+&emsp;
 ### Запуск игры Brain-gcd
-&emsp; **Welcome to the Brain Games!**
-&emsp; **May I have your name? Sam**
-&emsp; **Hello, Sam!**
-&emsp; **Find the greatest common divisor of given numbers.**
-&emsp; **Question: 25 50**
-&emsp; **Your answer: 25**
-&emsp; **Correct!**
-&emsp; **Question: 100 52**
-&emsp; **Your answer: 4**
-&emsp; **Correct!**
-&emsp; **Question: 3 9**
-&emsp; **Your answer: 3**
-&emsp; **Correct!**
-&emsp; **Congratulations, Sam!**
 
+Welcome to the Brain Games!
+
+May I have your name? Sam
+
+Hello, Sam!
+
+Find the greatest common divisor of given numbers.
+
+Question: 25 50
+
+Your answer: 25
+
+Correct!
+
+Question: 100 52
+
+Your answer: 4
+
+Correct!
+
+Question: 3 9
+
+Your answer: 3
+
+Correct!
+
+Congratulations, Sam!
+
+&emsp;
 ### Запуск игры Brain-progression
-&emsp; **Welcome to the Brain Games!**
-&emsp; **May I have your name? Sam**
-&emsp; **Hello, Sam!**
-&emsp; **What number is missing in the progression?**
-&emsp; **Question: 5 7 9 11 13 .. 17 19 21 23**
-&emsp; **Your answer: 15**
-&emsp; **Correct!**
-&emsp; **Question: 2 5 8 .. 14 17 20 23 26 29**
-&emsp; **Your answer: 11**
-&emsp; **Correct!**
-&emsp; **Question: 14 19 24 29 34 39 44 49 54 ..**
-&emsp; **Your answer: 59**
-&emsp; **Correct!**
-&emsp; **Congratulations, Sam!**
 
+Welcome to the Brain Games!
+
+May I have your name? Sam
+
+Hello, Sam!
+
+What number is missing in the progression?
+
+Question: 5 7 9 11 13 .. 17 19 21 23
+
+Your answer: 15
+
+Correct!
+
+Question: 2 5 8 .. 14 17 20 23 26 29
+
+Your answer: 11
+
+Correct!
+
+Question: 14 19 24 29 34 39 44 49 54 ..
+
+Your answer: 59
+
+Correct!
+
+Congratulations, Sam!
+
+&emsp;
 ### Запуск игры Brain-prime
-&emsp; **Welcome to the Brain Games!**
-&emsp; **May I have your name? Sam**
-&emsp; **Hello, Sam!**
-&emsp; **Answer "yes" if given number is prime. Otherwise answer "no".**
-&emsp; **Question: 7**
-&emsp; **Your answer: yes**
-&emsp; **Correct!**
+
+Welcome to the Brain Games!
+
+May I have your name? Sam
+
+Hello, Sam!
+
+Answer "yes" if given number is prime. Otherwise answer "no".
+
+Question: 7
+
+Your answer: yes
+
+Correct!
 &emsp;
 _____________
 ### Проект создан в рамках обучения на HEXLET 👩‍🎓 
