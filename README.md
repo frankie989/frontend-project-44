@@ -1,7 +1,7 @@
 ## **⭐Brain-games⭐** 
 
 &emsp; Hexlet tests and linter status:
-
+[![hexlet-check](https://github.com/hexlet-boilerplates/nodejs-package/workflows/hexlet-check/badge.svg)](https://github.com/hexlet-boilerplates/nodejs-package/actions)
 &emsp;
 
 Это пять мини-игр, позволяющих прокачать мозг 🏋️‍♂️

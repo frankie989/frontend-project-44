@@ -16,7 +16,7 @@ const calcNums = (num1, num2, operator) => {
     case '*':
       return num1 * num2;
     default:
-      return false;
+      throw new Error('Invalid operator');
   }
 };
 

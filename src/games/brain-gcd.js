@@ -5,19 +5,22 @@ const settings = {
   minNum: 0,
   maxNum: 100,
 };
+
 const gameDescription = 'Find the greatest common divisor of given numbers.';
 const getGcd = (num1, num2) => {
   if (Math.min(num1, num2) === 0) {
     return Math.max(num1, num2);
   }
   let result = 1;
-  for (let i = 2; i <= Math.min(num1, num2); i += 1) {
+  for (let i = Math.min(num1, num2); i >= 2; i -= 1) {
     if (num1 % i === 0 && num2 % i === 0) {
       result = i;
+      break; // Если найден делитель, можно прекратить итерацию
     }
   }
   return result;
 };
+
 
 const getGameData = () => {
   const num1 = getRandomNum(settings.minNum, settings.maxNum);
